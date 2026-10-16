@@ -1,0 +1,269 @@
+{
+  "folderUrl": "https://quizlet.com/user/LFSQPPRI/folders/ifsingapore-ce1",
+  "languagePair": [
+    "zh-CN",
+    "fr"
+  ],
+  "themes": [
+    {
+      "id": "theme01",
+      "asset": "monks-group",
+      "file": "monks-group.jpg",
+      "filmZh": "三个和尚",
+      "year": "1980",
+      "nameFr": "Le petit moine",
+      "nameZh": "小和尚",
+      "accent": "#7b4623",
+      "soft": "#f5e3c4",
+      "scenePosition": "50% 50%",
+      "focus": [
+        0.71,
+        0.45
+      ],
+      "zoom": 2.1,
+      "sourcePage": "https://web.shobserver.com/wxShare/html/253343.htm?from=timeline",
+      "sourceLabel": "Shangguan News / 上观新闻",
+      "imageSha256": "d588ffa37a2eb95524fc0e6fb0cc3c36fe0d20e7a1009dc3c8708a5fe1f5115b"
+    },
+    {
+      "id": "theme02",
+      "asset": "gourds",
+      "file": "gourds.jpg",
+      "filmZh": "葫芦兄弟",
+      "year": "1986–1987",
+      "nameFr": "Les frères Calebasse",
+      "nameZh": "葫芦兄弟",
+      "accent": "#556a2d",
+      "soft": "#e7edc9",
+      "scenePosition": "50% 40%",
+      "focus": [
+        0.5,
+        0.27
+      ],
+      "zoom": 2.3,
+      "sourcePage": "https://www.sohu.com/a/314115074_506525",
+      "sourceLabel": "Sohu",
+      "imageSha256": "0ee617d8013e9d0dd612e11d59abfa8b2c845dc60a78b42c15df3c88d1c4a2c0"
+    },
+    {
+      "id": "theme03",
+      "asset": "deer-bell",
+      "file": "deer-bell.png",
+      "filmZh": "鹿铃",
+      "year": "1982",
+      "nameFr": "La petite fille",
+      "nameZh": "小女孩",
+      "accent": "#536b55",
+      "soft": "#e5eddf",
+      "scenePosition": "45% 53%",
+      "focus": [
+        0.42,
+        0.57
+      ],
+      "zoom": 3.1,
+      "sourcePage": "https://www.odysseychinesecinema.uk/film/the-deers-bell/",
+      "sourceLabel": "Odyssey Film Festival",
+      "imageSha256": "f26fb25490f8b311ca2265044d64f4cfdc5882b2dc1feabb85dc9b533920e82b"
+    },
+    {
+      "id": "theme04",
+      "asset": "snow",
+      "file": "snow-film.png",
+      "filmZh": "雪孩子",
+      "year": "1980",
+      "nameFr": "Le bonhomme de neige",
+      "nameZh": "雪孩子",
+      "accent": "#386a81",
+      "soft": "#dfedf4",
+      "scenePosition": "42% 50%",
+      "focus": [
+        0.3,
+        0.38
+      ],
+      "zoom": 1.8,
+      "sourcePage": "https://www.bilibili.com/video/BV1SW41167EZ/",
+      "sourceLabel": "Bilibili — 雪孩子",
+      "imageSha256": "b59bc56b7b2b1f081a50e0a64493871d4da7523627bfb454a41eba8a062be0e9"
+    },
+    {
+      "id": "theme05",
+      "asset": "book-study",
+      "file": "book-study.jpg",
+      "filmZh": "天书奇谭",
+      "year": "1983",
+      "nameFr": "Dansheng",
+      "nameZh": "蛋生",
+      "accent": "#6c6344",
+      "soft": "#eee8d3",
+      "scenePosition": "60% 50%",
+      "focus": [
+        0.79,
+        0.51
+      ],
+      "zoom": 1.9,
+      "sourcePage": "https://www.yulejiaodian.com/ask/2021110516791.html",
+      "sourceLabel": "Yulejiaodian",
+      "imageSha256": "7946b9012c69910ca50e3df5cd4c65ccb03e71eabfb614b274b1ab911a64ccf4"
+    },
+    {
+      "id": "theme06",
+      "asset": "nine-deer",
+      "file": "nine-deer.jpg",
+      "filmZh": "九色鹿",
+      "year": "1981",
+      "nameFr": "Le cerf aux neuf couleurs",
+      "nameZh": "九色鹿",
+      "accent": "#3f6b4e",
+      "soft": "#e2eddb",
+      "scenePosition": "65% 50%",
+      "focus": [
+        0.72,
+        0.31
+      ],
+      "zoom": 2,
+      "sourcePage": "https://mubi.com/en/us/films/a-deer-of-nine-colors",
+      "sourceLabel": "MUBI",
+      "imageSha256": "c992d2d66e49172451629e0c5c52e3766ea94b8f45d079f7fe356c6128fae290"
+    },
+    {
+      "id": "theme07",
+      "asset": "monkeys-moon",
+      "file": "monkeys-moon.jpg",
+      "filmZh": "猴子捞月",
+      "year": "1981",
+      "nameFr": "Le petit singe",
+      "nameZh": "小猴子",
+      "accent": "#405587",
+      "soft": "#e2e7f5",
+      "scenePosition": "45% 50%",
+      "focus": [
+        0.44,
+        0.31
+      ],
+      "zoom": 2.1,
+      "sourcePage": "https://mubi.com/en/us/films/monkeys-fish-the-moon",
+      "sourceLabel": "MUBI",
+      "imageSha256": "837d033ab6cc3279bf4eb6b5ecf928997d9848b03930cc2656ec3e00e5b038f0"
+    },
+    {
+      "id": "theme08",
+      "asset": "cat-forest",
+      "file": "cat-forest.jpg",
+      "filmZh": "黑猫警长",
+      "year": "1984–1987",
+      "nameFr": "Le chat détective",
+      "nameZh": "黑猫警长",
+      "accent": "#416d60",
+      "soft": "#deeee3",
+      "scenePosition": "70% 45%",
+      "focus": [
+        0.8,
+        0.33
+      ],
+      "zoom": 2.8,
+      "sourcePage": "https://baike.so.com/gallery/list?eid=5406156&ghid=first&pic_idx=1&sid=24642614",
+      "sourceLabel": "360 Baike",
+      "imageSha256": "7a27299fc6bffb044a54eb11cc41ed758de3da60f6bed690a96092d972c14ac1"
+    },
+    {
+      "id": "theme09",
+      "asset": "bird-clam",
+      "file": "bird-clam.png",
+      "filmZh": "鹬蚌相争",
+      "year": "1983",
+      "nameFr": "L’oiseau du rivage",
+      "nameZh": "小鹬鸟",
+      "accent": "#725b78",
+      "soft": "#eee4ed",
+      "scenePosition": "50% 50%",
+      "focus": [
+        0.6,
+        0.42
+      ],
+      "zoom": 1.8,
+      "sourcePage": "https://ent.sina.com.cn/v/m/2019-05-14/doc-ihvhiews1736089.shtml",
+      "sourceLabel": "Sina",
+      "imageSha256": "c5aa6b8f112fc82df86eec5add7ed7a3436a32224617c29bb0acbeb3c90cd0b8"
+    },
+    {
+      "id": "theme10",
+      "asset": "book-mountains",
+      "file": "book-mountains.jpg",
+      "filmZh": "天书奇谭",
+      "year": "1983",
+      "nameFr": "Yuangong",
+      "nameZh": "袁公",
+      "accent": "#3a6375",
+      "soft": "#e1eaf0",
+      "scenePosition": "50% 50%",
+      "focus": [
+        0.4,
+        0.3
+      ],
+      "zoom": 2,
+      "sourcePage": "https://www.yulejiaodian.com/ask/2021110516793.html",
+      "sourceLabel": "Yulejiaodian",
+      "imageSha256": "4a839171566e3cb900401cccb9573b7b42b4d05bd8572f164686300c694020e6"
+    },
+    {
+      "id": "theme11",
+      "asset": "monkey-king",
+      "file": "monkey-king.jpg",
+      "filmZh": "金猴降妖",
+      "year": "1985",
+      "nameFr": "Le Roi des singes",
+      "nameZh": "孙悟空",
+      "accent": "#984a31",
+      "soft": "#f4e3d4",
+      "scenePosition": "45% 50%",
+      "focus": [
+        0.3,
+        0.55
+      ],
+      "zoom": 2,
+      "sourcePage": "https://www.themoviedb.org/movie/183340/images/backdrops",
+      "sourceLabel": "TMDB",
+      "imageSha256": "f2830e35d1fe7ec9f61da5377297da2a7c1a0263df37990724027f65494f7c55"
+    },
+    {
+      "id": "theme12",
+      "asset": "shuke-beta",
+      "file": "shuke-beta.jpg",
+      "filmZh": "舒克和贝塔",
+      "year": "1989",
+      "nameFr": "Shuke et Beita",
+      "nameZh": "舒克和贝塔",
+      "accent": "#38657f",
+      "soft": "#dfeaf1",
+      "scenePosition": "50% 50%",
+      "focus": [
+        0.72,
+        0.49
+      ],
+      "zoom": 1.3,
+      "sourcePage": "https://culture.ifeng.com/a/20160601/48891571_0.shtml",
+      "sourceLabel": "Phoenix Culture",
+      "imageSha256": "8d2bf689569386a39c4e0304f679676e9dde3d35915bfc9d5c31f35fcc4420d1"
+    },
+    {
+      "id": "theme13",
+      "asset": "deer-hug",
+      "file": "deer-hug.jpg",
+      "filmZh": "鹿铃",
+      "year": "1982",
+      "nameFr": "Le faon",
+      "nameZh": "小鹿",
+      "accent": "#77506a",
+      "soft": "#f0e1e9",
+      "scenePosition": "50% 40%",
+      "focus": [
+        0.44,
+        0.4
+      ],
+      "zoom": 2,
+      "sourcePage": "https://www.artmuseumonline.org/art/art/visitGuide/xwgg/2026/02/22/2c906d9b9c223c81019c92791a6f2a19.html",
+      "sourceLabel": "中华艺术宫",
+      "imageSha256": "9a7898307e6b502e3aaeaf611b03637a1035558b4402d5a5849f83861130d7f6"
+    }
+  ]
+}
